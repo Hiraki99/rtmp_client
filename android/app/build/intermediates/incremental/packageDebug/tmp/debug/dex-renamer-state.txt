@@ -1,0 +1,4 @@
+#Sun Jan 06 22:25:39 ICT 2019
+base.0=/home/thinh/demo/client_rtmp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
